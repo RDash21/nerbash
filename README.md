@@ -2,7 +2,7 @@
 
 ## Currently not yet in development!
 
-A Zend Framework based IRC Quotes Database which can run on any NGINX/Apache2 webhost with can be easily deployed on Heroku.
+A PHP based IRC Quotes Database which can run on any NGINX/Apache2 webhost with can be easily deployed on Heroku.
 
 *Features in mind:*
 
@@ -20,5 +20,8 @@ A Zend Framework based IRC Quotes Database which can run on any NGINX/Apache2 we
 - Push/Pull API,
 - API for IRC Bots or Websites,
 
+For questions contact me on:
+twitter.com/TheRDash
+github.com/RDash21
 
 Nerdbash will be a next generation Quotes Database for every one to use.
